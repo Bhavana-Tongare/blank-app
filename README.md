@@ -53,14 +53,17 @@ An online shopping company receives thousands of product reviews, and reading th
 
 ## Charts
 
-| Sentiment distribution | Model vs ratings |
-|---|---|
-| ![Sentiment](charts | ![Confusion matrix](charts/confusion_matrix.png) |
+### Sentiment distribution
+![Sentiment](charts/charts/sentiment_distribution.png)
 
-| Negative reviews by product | Top complaints |
-|---|---|
-| ![Products](charts/negative_by_product.png) | ![Complaints](charts/complaints.png) |
+### Model vs ratings
+![Confusion matrix](charts/charts/confusion_matrix.png)
 
+### Negative reviews by product
+![Products](charts/charts/negative_by_product.png)
+
+### Top complaints
+![Complaints](charts/charts/complaints.png)
 ## Dashboard features
 
 - Sidebar filters for product and star rating.
