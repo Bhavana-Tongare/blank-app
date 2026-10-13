@@ -55,7 +55,7 @@ An online shopping company receives thousands of product reviews, and reading th
 
 | Sentiment distribution | Model vs ratings |
 |---|---|
-| ![Sentiment](charts/sentiment_distribution.png) | ![Confusion matrix](charts/confusion_matrix.png) |
+| ![Sentiment](charts | ![Confusion matrix](charts/confusion_matrix.png) |
 
 | Negative reviews by product | Top complaints |
 |---|---|
