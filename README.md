@@ -50,6 +50,7 @@ An online shopping company receives thousands of product reviews, and reading th
 - **Recommendation:** the company should first check the sound quality of these three audio products, for example by reading their low-rated reviews and testing the products. Complaints like "dont buy" and "waste money" show strong dissatisfaction, but they don't say what the problem is.
 
   
+  
 ## Charts
 
 ### Sentiment distribution
@@ -63,6 +64,7 @@ An online shopping company receives thousands of product reviews, and reading th
 
 ### Top complaints
 ![Complaints](complaints.png)
+
 
 
 ## Dashboard features
